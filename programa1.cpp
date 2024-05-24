@@ -35,3 +35,5 @@ int main() {
 
     return 0;
 }
+
+// loop inutílizaveis: for (int i = 0; i < 10; ++i) {
