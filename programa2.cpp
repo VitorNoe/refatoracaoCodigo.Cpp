@@ -38,7 +38,6 @@ int main() {
 	std::string name;
 	int quantity;
 	int choice;
-
 	do {
     	std::cout << "Inventory Management System" << std::endl;
     	std::cout << "1. Add Item" << std::endl;
