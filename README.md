@@ -1,1 +1,2 @@
-# refatoracaoCodigo.Cpp
+- Programa 1: Não foi declaradas as funções e variáveis; 'unusedFunction()' 'unusedVector', existe comentários indicando loops inúteis é pouca melhoria na legibilidade.
+- Programa 2: Tambem possui comentários indicando loops inúteis, falta de verificação de entrada de usuários e o loop de depuração 'i' não é necessaria estár no código.
